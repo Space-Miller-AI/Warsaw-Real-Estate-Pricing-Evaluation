@@ -175,6 +175,7 @@ Adjusted for Investment Attractors: +3-5%
 Final Recommended Price Range
 Lower Bound: 16,451 PLN/m² * 1.26 = 20,725 PLN/m²
 Upper Bound: 18,600 PLN/m² * 1.46 = 27,156 PLN/m²
+
 Final Assessment Summary
 
 Exact Distances:
