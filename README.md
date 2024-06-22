@@ -32,32 +32,32 @@ Size: 42.26 m²
 Price: 786,036 PLN
 Price per m²: 18,600 PLN/m²
 
-Step 2: Geographic Distance Calculation
+Step 2: Geographic Distance Calculation:
 All properties listed are within 1 kilometer of the specified address.
 
-Step 3: Calculate Price per Square Meter
+Step 3: Calculate Price per Square Meter:
 The price per square meter for each property has been calculated as follows:
 Property 1: 18,400 PLN/m²
 Property 2: 16,500 PLN/m²
 Property 3: 16,451 PLN/m²
 Property 4: 18,600 PLN/m²
 
-Step 4: Increase Search Radius (if necessary)
+Step 4: Increase Search Radius (if necessary):
 The data volume is sufficient within the 1-kilometer radius, so no need to increase the search radius.
 
-Step 5: Exclude Properties with Incomplete Data
+Step 5: Exclude Properties with Incomplete Data:
 All properties listed have complete data (price and size).
 
-Step 6: Calculate Median and Average Price per Square Meter
+Step 6: Calculate Median and Average Price per Square Meter:
 Median Price per m²: 17,450 PLN/m²
 Average Price per m²: 17,488 PLN/m²
 Minimum Price per m²: 16,451 PLN/m²
 Maximum Price per m²: 18,600 PLN/m²
 
-Step 7: Identify and Exclude Outliers
-
+Step 7: Identify and Exclude Outliers:
 No significant outliers were identified within the provided data set.
-Summary
+
+Summary:
 
 Median Price per m²: 17,450 PLN/m²
 
@@ -79,11 +79,13 @@ Range: 2,149 PLN/m² (from 16,451 PLN/m² to 18,600 PLN/m²)
 Standard Deviation: 1,000 PLN/m² (approx.)
 
 Price Volatility and Trends
+
 Recent Period Volatility: Prices have shown moderate variability within the range of 16,451 PLN/m² to 18,600 PLN/m².
 
 Historical Comparison: Compared to historical data, the current prices are relatively stable with a slight upward trend due to increased demand and limited supply.
 
 Anomalous Pricing Data
+
 Properties that are significantly more expensive compared to the average prices:
 
 Property 1 (Anomalous)
@@ -95,10 +97,12 @@ Property 2 (Anomalous)
 Location: Warszawa, Śródmieście
 Size: 50 m²
 Price per m²: 30,000 PLN/m²
-Minimum and Maximum Anomalous Pricing Ranges
+
+Minimum and Maximum Anomalous Pricing Ranges:
 Minimum Anomalous Price per m²: 30,000 PLN/m²
 Maximum Anomalous Price per m²: 34,868 PLN/m²
-New Properties within a 2-Kilometer Radius
+
+New Properties within a 2-Kilometer Radius:
 New properties that are priced above the maximum price evaluated (18,600 PLN/m²):
 
 Property 5
