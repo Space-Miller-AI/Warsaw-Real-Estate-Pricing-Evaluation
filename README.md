@@ -55,22 +55,34 @@ Minimum Price per m²: 16,451 PLN/m²
 Maximum Price per m²: 18,600 PLN/m²
 
 Step 7: Identify and Exclude Outliers
+
 No significant outliers were identified within the provided data set.
 Summary
+
 Median Price per m²: 17,450 PLN/m²
+
 Average Price per m²: 17,488 PLN/m²
+
 Minimum Price per m²: 16,451 PLN/m²
+
 Maximum Price per m²: 18,600 PLN/m²
+
 Interquartile Range (IQR) Calculation
 Q1 (25th percentile): 16,451 PLN/m²
 Q3 (75th percentile): 18,400 PLN/m²
+
 IQR: 1,949 PLN/m²
+
 Price Distribution and Variability
 Range: 2,149 PLN/m² (from 16,451 PLN/m² to 18,600 PLN/m²)
+
 Standard Deviation: 1,000 PLN/m² (approx.)
+
 Price Volatility and Trends
 Recent Period Volatility: Prices have shown moderate variability within the range of 16,451 PLN/m² to 18,600 PLN/m².
+
 Historical Comparison: Compared to historical data, the current prices are relatively stable with a slight upward trend due to increased demand and limited supply.
+
 Anomalous Pricing Data
 Properties that are significantly more expensive compared to the average prices:
 
